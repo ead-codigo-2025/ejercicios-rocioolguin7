@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 2</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 class="titulo">Direccion de Servicios Estudiantiles</h1>
+    <p class="parrafo-1">El trabajo colaborativo, sistemático y permanente en investigación y creación, realizado en la Universidad de Concepción, es una forma válida de alcanzar altos niveles de calidad y pertinencia.</p>
+    <h3 class="subtitulo-1">Deportes</h3>
+    <p class="parrafo-2">Actividades masivas y recreativas</p>
+    <h3 class="subtitulo-2">Salud</h3>
+    <p class="parrafo-3">Recepción de certificados médicos</p>
+    <h3 class="subtitulo-3">Bienestar Estudiantil</h3>
+    <p class="parrafo-4">Tarjeta Nacional Estudiantil</p>
+    <h3 class="subtitulo-4">Actividades Extraprogramaticas</h3>
+    <p class="parrafo-5">Cursos Artísticos y Culturales de libre participación</p>
+</body>
+</html>
